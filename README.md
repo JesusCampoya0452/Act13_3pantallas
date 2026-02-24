@@ -1,11 +1,16 @@
 # myapp
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+<img width="343" height="573" alt="image" src="https://github.com/user-attachments/assets/065254e1-f1e1-4e87-8ff6-44045d471622" />
 
-![alt text](image-3.png)
-![alt text](image-4.png)
+<img width="347" height="576" alt="image" src="https://github.com/user-attachments/assets/92658aad-a195-494b-b95b-0cbbd7e39dd4" />
+
+<img width="345" height="575" alt="image" src="https://github.com/user-attachments/assets/a87a1d2e-5177-4aa0-a3a8-3b7d62ed7c0b" />
+
+
+<img width="310" height="512" alt="image" src="https://github.com/user-attachments/assets/37b80061-8e31-4233-b5d0-84cbda191e8e" />
+
+<img width="299" height="505" alt="image" src="https://github.com/user-attachments/assets/f6374585-8077-49fd-869e-4a6122e4d102" />
+
 ![alt text](image-5.png)
 
 
